@@ -15,6 +15,88 @@ git status
 git commit -a -m "add README file"
 ```
 
+## Links:
+
+- [text formatting](#text-formating)
+
+- [Secret Page](./Secret.md)
+
+- [Github Website](https://github.com/)
+
+## Tasklist
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+
+
+
+## Unordered Lists
+
+- one
+- two
++ three
++ four
++ five
+- six
+
+
+## Ordered Lists
+
+1. one
+1. two
+1) **three**
+1. *four*
+1. five
+1. six
+
+## Text formating
+
+*text*
+_text_
+
+**text**
+__text__
+
+
+~~text~~   ~
+
+
+## Code
+
+### Inline Code
+
+You can print to the terminal using the `puts "Hello world"` command.
+
+### Multiline Code
+
+You can divide code to the multiple lines
+
+#### Without Highlighting
+
+```
+def hello_world
+  puts "Hello World"
+end
+```
+
+#### With Highlighting
+
+```rb
+def hello_world
+  puts "Hello World"
+end
+```
+
+## Table
+
+| foo | bar |
+| --- | --- |
+| baz | bim |
+
+
+
+
 ## Cloning
 
 We can clone three ways: HTTPS, SSH, Github CLI
