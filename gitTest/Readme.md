@@ -1,5 +1,6 @@
 ## GIT hidden folder
 
+
 There si a hidden folder called `.git `
 
 If we wanted to create a git repo in a new project we' created the folder and the initialize that repo using `git init`
@@ -22,6 +23,12 @@ git commit -a -m "add README file"
 - [Secret Page](./Secret.md)
 
 - [Github Website](https://github.com/)
+
+<div align="center">
+
+![Beauty Nature](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPUyVNdxk3CCHlrmQXQ_2uELakDZ_0bsoYxw&s)
+
+</div>
 
 ## Tasklist
 
